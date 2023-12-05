@@ -1,0 +1,17 @@
+{
+    "name": "hiigo/hexlet-test",
+    "description": "first proj",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Hiigo\\HexletTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evgenii.Goncharov",
+            "email": "hichi411@gmail.com"
+        }
+    ],
+    "require": {}
+}
