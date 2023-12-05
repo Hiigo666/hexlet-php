@@ -5,7 +5,8 @@
     "autoload": {
         "psr-4": {
             "Hiigo\\HexletTest\\": "src/"
-        }
+        },
+	"files": ["src/Runner.php" ]
     },
     "authors": [
         {
